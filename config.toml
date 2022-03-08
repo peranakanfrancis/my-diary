@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "中文"
     [languages.zh.params]
-      introTitle = "My name is Francis, I'm a sinner."
-      introSubtitle = "Sister Theresa advises me to write a diary about my life. I'm a catholic and currently under demon possessed. I want to discover Jesus through my suffering time."
+      introTitle = "My name is Francis, I'm a sinner 💔💔💔"
+      introSubtitle = "Sister Theresa advises me to write a diary about my life. I'm a catholic and currently under demon possessed. I'm in the process of drug recovery, I have many dark pasts and broken memories, but that all doesn't matter now cos I know I'll be healed. I want to discover Jesus through my suffering time."
       introPhoto = "/mypicture.jpeg"
       logo = "/logo.png"
     [[languages.zh.menu.main]]
