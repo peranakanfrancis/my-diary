@@ -1,6 +1,6 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "/"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "My Personal Diary | 我的秘密花园 "
 theme = "blist"
 
 DefaultContentLanguage = "zh"
@@ -15,7 +15,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "My name is Francis, I'm a sinner 💔💔💔"
       introSubtitle = "Sister Theresa advises me to write a diary about my life. I'm a catholic and currently under demon possessed. I'm in the process of drug recovery, I have many dark pasts and broken memories, but that all doesn't matter now cos I know I'll be healed. I want to discover Jesus through my suffering time."
       introPhoto = "/mypicture.jpeg"
-      logo = "/logo.png"
+      logo = "/logo.svg"
     [[languages.zh.menu.main]]
         name = "Blog"
         url = "blog"
@@ -31,10 +31,10 @@ DefaultContentLanguageInSubdir = true
         url = "tags"
         weight = 3
 
-    [[languages.zh.menu.main]]
-        name = "Top Post"
-        url = "/zh/blog/emoji-support/"
-        weight = 4
+#    [[languages.zh.menu.main]]
+#        name = "Top Post"
+#        url = "/zh/blog/emoji-support/"
+#        weight = 4
 
 #  [languages.de]
 #    contentDir = "content/de" # Deutsch
@@ -70,7 +70,7 @@ DefaultContentLanguageInSubdir = true
   enableSearch = true
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = "Copyright © 2022 - Francis Tan · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -80,15 +80,19 @@ DefaultContentLanguageInSubdir = true
 
 [params.homepage.social]
   # Global params xommon for both languages
-  title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
-  twitter = "https://twitter.com/"
-  linkedin = "https://linkedin.com/in/"
-  xing = "https://www.xing.com/profile/"
-  github = "https://github.com/"
-  medium = "https://medium.com/"
-  reddit = "https://reddit.com/"
-  dribbble = "https://dribbble.com/"
+  title = "Contact me"
+  description = "I don't have much talents, I don't have a degree but I do like to create website and interested to learn sign languages & guitar. I like trekking too."
+  facebook = "https://facebook.com/peranakanfrancis"
+  linkedin = "https://linkedin.com/in/peranakanfrancis"
+  #xing = "https://www.xing.com/profile/"
+  github = "https://github.com/peranakanfrancis"
+  #medium = "https://medium.com/"
+  #reddit = "https://reddit.com/"
+  #dribbble = "https://dribbble.com/"
+  #youtube = ""
+  whatsapp = "https://wa.link/8sratz"
+  #messenger = ""
+  #telegram = ""
 
 [[menu.main]]
   name = "About"
